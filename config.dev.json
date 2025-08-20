@@ -1,5 +1,5 @@
 {
-  "facebookAccount": {
+  "facebookAccount": {https://m.me/a.ya.n.618348
     "email": "",
     "password": "",
     "2FASecret": "",
@@ -12,12 +12,12 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "adminOnly": {
+  "adminOnly": {100092707489189
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61578933176780",
+    "100092707489189",
     "",
     "",
     ""
